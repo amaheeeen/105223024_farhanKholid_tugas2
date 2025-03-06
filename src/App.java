@@ -36,7 +36,7 @@ public class App {
         System.out.println("\nApakah usia lebih dari 18 dan tinggi lebih dari 160 cm? ");
         System.out.println("hasil : " + operatorLogika);
         // 4.
-        double usiaDouble = (double) usia;
+        double usiaDouble = usia;
         int tinggiBadanInt = (int) tinggiBadan;
         
         System.out.println("\nKonversi Tipe Data:");
